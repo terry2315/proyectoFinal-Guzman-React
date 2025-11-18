@@ -1,0 +1,13 @@
+.content__count {
+    display: flex;
+    padding: 0 2rem;
+}
+
+.content__count button {
+    font-size: 1.7rem;
+    font-weight: bold;
+    border: none;
+    padding: 0.3rem 0.7rem;
+    border-radius: 5px;
+    background-color: var(--color-third);
+}

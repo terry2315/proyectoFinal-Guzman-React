@@ -1,0 +1,33 @@
+:root {
+  --color-primary: #242424;
+  --color-secundary: #fff;
+  --color-third: #1cb0ff;
+  --color-fourt: #000000;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Poppins', sans-serif;
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-weight: normal;
+    color: var(--color-secundary);
+    background-color: var(--color-primary);
+}
+
+.layout {
+    width: 100%;
+    height: 100%;
+}

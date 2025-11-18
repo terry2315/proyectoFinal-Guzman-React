@@ -1,0 +1,14 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    gap: 5rem;
+    width: 60rem;
+    height: 100%;
+}
+
+.form p {
+    color: red;
+}
